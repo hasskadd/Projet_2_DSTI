@@ -1,4 +1,5 @@
-#Information
+## Information
+
 This is a personal project on machine learning
 
 ## Installation
@@ -17,7 +18,7 @@ cd Project 2
 conda create -n yourenvname
 ```
 
-## Activer l'environement Virtuel
+## Activate the virtual environment
 
 Window
 
