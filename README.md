@@ -5,7 +5,7 @@ This is a personal project on machine learning
 ## Installation
 
 ```bash
-git git@github.com:hasskadd/Projet_2_DSTI.git
+git git@github.com:hasskadd/Projet_Machine_learning_DSTI.git
 ```
 
 ```bash
